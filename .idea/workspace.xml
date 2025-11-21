@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="515f508a-4c9f-4a0e-a088-c060aa43ecad" name="Changes" comment="" />
+    <list default="true" id="515f508a-4c9f-4a0e-a088-c060aa43ecad" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JunitTesting/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JunitTesting/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JunitTesting/src/main/java/wiki.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JunitTesting/src/wiki.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JunitTesting/src/test/java/GUITest.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,9 +46,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Maven.Testing365.executor": "Run",
     "Maven.Unnamed.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "git-widget-placeholder": "emma-test",
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "Project",
@@ -51,8 +58,31 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ehals\Desktop\Oswego\CSC385\JunitTesting365Project\JunitTesting\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MavenRunConfiguration" />
+      </set>
+    </option>
+    <option name="configurationStatuses">
+      <map>
+        <entry key="MavenRunConfiguration">
+          <value>
+            <map>
+              <entry key="Testing365" value="STOPPED" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="RunManager">
-    <configuration name="Unnamed" type="MavenRunConfiguration" factoryName="Maven">
+    <configuration name="Testing365" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
         <option name="myGeneralSettings" />
         <option name="myRunnerSettings" />
@@ -63,7 +93,10 @@
               <set />
             </option>
             <option name="goals">
-              <list />
+              <list>
+                <option value="clean" />
+                <option value="install" />
+              </list>
             </option>
             <option name="multimoduleDir" />
             <option name="pomFileName" />

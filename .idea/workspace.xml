@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="515f508a-4c9f-4a0e-a088-c060aa43ecad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/JunitTesting/src/test/java/org/example/HTTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JunitTesting/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JunitTesting/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JunitTesting/src/main/java/wiki.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JunitTesting/src/wiki.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JunitTesting/src/test/java/GUITest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JunitTesting/src/test/java/HTTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JunitTesting/src/test/java/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JunitTesting/src/test/java/org/example/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JunitTesting/target/JunitTesting-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JunitTesting/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JunitTesting/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/JunitTesting/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JunitTesting/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/JunitTesting/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JunitTesting/target/test-classes/HTTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JunitTesting/target/test-classes/HTTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +66,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ehals\Desktop\Oswego\CSC385\JunitTesting365Project\JunitTesting\src\test\java\org\JUNITTEST" />
       <recent name="C:\Users\ehals\Desktop\Oswego\CSC385\JunitTesting365Project\JunitTesting\src" />
     </key>
   </component>
@@ -74,7 +81,7 @@
         <entry key="MavenRunConfiguration">
           <value>
             <map>
-              <entry key="Testing365" value="STOPPED" />
+              <entry key="Testing365" value="FAILED" />
             </map>
           </value>
         </entry>
